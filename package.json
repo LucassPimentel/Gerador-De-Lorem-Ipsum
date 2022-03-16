@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lorem-ipsum": "^2.0.4"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.5.4",
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
